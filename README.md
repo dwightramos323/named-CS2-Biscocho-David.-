@@ -13,7 +13,7 @@ Doesn't include input validation
 Input: Asks for customer name
 Process: Calculates and displays total bill
 Output: Total bill
-Doesn't include input validation
+Includes input validation
 
 ## Author
 David D. Biscocho
